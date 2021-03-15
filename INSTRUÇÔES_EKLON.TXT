@@ -1,2 +1,3 @@
 Logar no vagrant virtual box pelo "vagrant ssh"
 entrar no env do python dentro da pasta vagrant no server pelo comando source ~/env/bin/activate
+
